@@ -1,0 +1,39 @@
+.image-tiara {
+    width: 350px;
+    height: 350px;
+    object-fit: cover;
+}
+
+.title {
+    font-family: 'Raleway', verdana;
+}
+
+.subtitle {
+    letter-spacing: 10px;
+}
+
+#begin {
+    height: 95vh;
+}
+
+#about {
+    height: 95vh;
+}
+
+#skill {
+    height: 70vh;
+}
+
+.text-about {
+    text-indent: 50px;
+    text-align: justify;
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
+
+body{
+    background: #d7b3cb;
+}
